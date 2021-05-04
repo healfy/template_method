@@ -1,9 +1,6 @@
 # Template Method Implementation
 
-## Sorts
-* `merge`
-* `select`
-* `insert`
+Implementation of the choice of a suitable method of matrix operations using the template method
 
 ## Usage
 `pip install -r requirements.txt`
